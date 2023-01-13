@@ -1,8 +1,5 @@
 <template>
   <div class="wrapper">
-    <NuxtLayout :name="header">
-      <NuxtPage/>
-    </NuxtLayout>
     <NuxtLayout>
       <NuxtPage/>
     </NuxtLayout>
@@ -29,8 +26,3 @@
     padding: 0 1rem;
   }
 </style>
-
-<script setup>
-  import {ref} from 'vue';
-  const header = "header";
-</script>
