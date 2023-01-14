@@ -32,10 +32,10 @@
 </template>
 
 <script setup>
-import bakery from "assets/bakery_donut.png"
-import production from "assets/own_production.png"
-import delivery from "assets/food_delivery.png"
-import petfood from "assets/pet_food.png"
+import bakery from "assets/bakery_donut.png";
+import production from "assets/own_production.png";
+import delivery from "assets/food_delivery.png";
+import petfood from "assets/pet_food.png";
 </script>
 
 <style>
@@ -50,8 +50,8 @@ import petfood from "assets/pet_food.png"
 }
 
 .logo img {
-    height: 20rem;
-    width: 20rem;
+    height: 16rem;
+    width: 16rem;
     margin: 0 auto;
 }
 

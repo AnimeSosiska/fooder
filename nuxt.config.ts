@@ -6,7 +6,7 @@ export default({
     base: '/fooder_static/'
   },
   app:{
-    baseURL: "/fooder/",
+    baseURL: "/",
     head:{
       title:'Fooder',
       meta:[
@@ -16,12 +16,5 @@ export default({
   },
   modules: [
         '@nuxt/content',
-    ],
-    css: ['~/assets/css/main.css'],
-    postcss: {
-        plugins: {
-          tailwindcss: {},
-          autoprefixer: {},
-        },
-      },
+    ]
 })
