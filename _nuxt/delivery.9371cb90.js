@@ -1,1 +1,0 @@
-import n from"./TheHeader.ae0003ab.js";import{J as _,o as c,E as r,M as e,L as a,N as s,I as m,O as p}from"./entry.02c696c2.js";/* empty css                      */const d={};function f(i,l){const t=n,o=m;return c(),r(s,null,[e(t),e(o,{to:"/"},{default:a(()=>[p("\u041D\u0430\u0437\u0430\u0434")]),_:1})],64)}const h=_(d,[["render",f]]);export{h as default};

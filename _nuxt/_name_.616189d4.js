@@ -1,0 +1,1 @@
+import{J as e,o,c,L as n,I as _,O as a}from"./entry.27aa23d0.js";const s={};function r(f,x){const t=_;return o(),c(t,{to:"/"},{default:n(()=>[a("\u041D\u0430\u0437\u0430\u0434")]),_:1})}const p=e(s,[["render",r]]);export{p as default};
